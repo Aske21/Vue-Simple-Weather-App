@@ -50,6 +50,7 @@ export default {
     };
   },
   methods: {
+    //fetchWeather
     fetchWeather(e) {
       if (e.key == "Enter") {
         fetch(
