@@ -1,4 +1,4 @@
-# firstproject
+# Vue Simple Weather Application for exercise with working with APIs
 
 ## Project setup
 ```
